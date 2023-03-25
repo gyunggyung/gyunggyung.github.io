@@ -11,11 +11,9 @@ newhiwoong@gmail.com
 ## Professional Experience:
 ### Personalized AGI Society | Founder, Chairman of the Board | 2023.03.28 -
 -	Making personal AGI available to everyone.
--	Study the latest papers on the subject.
 
 ### ForUS.AI | Founder, NLP Engineer | 2020.04.01 - 2022.02.15
 -	Implemented a service that creates content (lyrics) matching user psychology (MBTI) by organizing a team of 20 people.
--	Github: (gyunggyung/KoGPT2-FineTuning)
 
 ## Leadership and Teamwork Experience:
 ### LiOn Public Project Contributor | [GitHub](https://github.com/gyunggyung/LiOn)
@@ -29,7 +27,7 @@ newhiwoong@gmail.com
 -	Developed an assembly language example for GPT (Generative Pre-trained Transformer) models.
 
 ### DistilKoBiLSTM Project Contributor | [GitHub](https://github.com/gyunggyung/DistilKoBiLSTM)
--	Development of DistilKoBiLSTM, a project aimed at distilling task-specific knowledge from a teacher model into a BiLSTM.
+- Developed DistilKoBiLSTM to extract task-specific knowledge from teacher models and convert them to BiLSTM.
 
 ### KoGPT2-FineTuning Project Leader | [GitHub ](https://github.com/gyunggyung/KoGPT2-FineTuning)
 -	Coordinated the development and fine-tuning of KoGPT-2, a Korean language model, for various applications, including learning Korean lyrics data.
