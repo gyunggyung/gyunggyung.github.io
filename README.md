@@ -24,13 +24,12 @@ newhiwoong@gmail.com
 
 ### KoAlpaca.cpp Collaborator | [GitHub](https://github.com/gyunggyung/KoAlpaca.cpp)
 -	Contributed to the development of KoAlpaca, a locally run Instruction-Tuned Chat-Style LLM in C++.
--	Collaborated with the original author to improve and extend the project, incorporating feedback from the community.
 
 ### GPT.asm Project Creator | [GitHub](https://github.com/gyunggyung/GPT.asm)
 -	Developed an assembly language example for GPT (Generative Pre-trained Transformer) models.
 
 ### DistilKoBiLSTM Project Contributor | [GitHub](https://github.com/gyunggyung/DistilKoBiLSTM)
--	Contributed to the development of DistilKoBiLSTM, a project aimed at distilling task-specific knowledge from a teacher model into a BiLSTM.
+-	Development of DistilKoBiLSTM, a project aimed at distilling task-specific knowledge from a teacher model into a BiLSTM.
 
 ### KoGPT2-FineTuning Project Leader | [GitHub ](https://github.com/gyunggyung/KoGPT2-FineTuning)
 -	Coordinated the development and fine-tuning of KoGPT-2, a Korean language model, for various applications, including learning Korean lyrics data.
