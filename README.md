@@ -1,4 +1,11 @@
-# Kiwoong Yeom - Open AGI Enthusiast and NLP Engineer
+# 👋 Kiwoong Yeom - Open AGI Enthusiast and NLP Engineer 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunho0130/)](https://www.linkedin.com/in/kiwoong-yeom-9908b21b1) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://ww.rankedin.kr/user/gyunggyung)](http://ww.rankedin.kr/user/gyunggyung)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/myh0130)](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA?view_as=subscriber) 
+[![E-book Badge](https://img.shields.io/badge/-Ebook-green?style=flat-square)](https://smartstore.naver.com/gyunggyung/products/4848817970)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](https://hipgyung.tistory.com/)
+
 Advocating for accessible, transparent, and collaborative AGI development for everyone. AI and NLP enthusiast passionate about developing real open AGI. I strive to create innovative solutions for the betterment of society. My interests include Lightweight and Efficient models, and personal AGI development.
 
 newhiwoong@gmail.com
@@ -13,21 +20,21 @@ newhiwoong@gmail.com
 -	Github: (gyunggyung/KoGPT2-FineTuning)
 
 ## Leadership and Teamwork Experience:
-### LiOn Public Project Contributor | GitHub
+### LiOn Public Project Contributor | [GitHub](https://github.com/gyunggyung/LiOn)
 -	Worked on the LiOn project, which aims to connect various data sources to expand expertise in natural language processing.
 -	Collaborated with team members to develop and refine algorithms and techniques for improved language understanding.
 
-### KoAlpaca.cpp Collaborator | GitHub
+### KoAlpaca.cpp Collaborator | [[GitHub](https://github.com/gyunggyung/KoAlpaca.cpp)
 -	Contributed to the development of KoAlpaca, a locally run Instruction-Tuned Chat-Style LLM in C++.
 -	Collaborated with the original author to improve and extend the project, incorporating feedback from the community.
 
-### GPT.asm Project Creator | GitHub
+### GPT.asm Project Creator | [GitHub](https://github.com/gyunggyung/GPT.asm)
 -	Developed an assembly language example for GPT (Generative Pre-trained Transformer) models.
 
-### DistilKoBiLSTM Project Contributor | GitHub
+### DistilKoBiLSTM Project Contributor | [GitHub](https://github.com/gyunggyung/DistilKoBiLSTM)
 -	Contributed to the development of DistilKoBiLSTM, a project aimed at distilling task-specific knowledge from a teacher model into a BiLSTM.
 
-### KoGPT2-FineTuning Project Leader | GitHub 
+### KoGPT2-FineTuning Project Leader | [GitHub ](https://github.com/gyunggyung/KoGPT2-FineTuning)
 -	Coordinated the development and fine-tuning of KoGPT-2, a Korean language model, for various applications, including learning Korean lyrics data.
 
 ## Skills and Languages:
